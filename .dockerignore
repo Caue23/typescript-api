@@ -1,0 +1,4 @@
+json-typing.json
+.vscode
+node_modules
+prettier.config.js
